@@ -1,0 +1,7 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>UX Autocomplete – remote multi-select repro</h1>
+    <p>Items 01–08 are pre-selected. Open the dropdown without typing: only Item 09 and Item 10 are shown, there is no scroll, and Item 11+ are unreachable.</p>
+    {{ form(form) }}
+{% endblock %}
