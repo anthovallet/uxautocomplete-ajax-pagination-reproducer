@@ -4,9 +4,9 @@ Minimal reproducer for a `symfony/ux-autocomplete` issue: symfony/ux#XXXX
 
 ## Versions
 
-- PHP 8.2.4
+- PHP 8.5.11
 - Symfony 7.4.20
-- `symfony/ux-autocomplete` 2.36.2
+- `symfony/ux-autocomplete` 3.5.1
 
 ## Setup
 
