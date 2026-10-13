@@ -1,6 +1,7 @@
 # ux-autocomplete remote multi-select pagination reproducer
 
-Minimal reproducer for a `symfony/ux-autocomplete` issue: symfony/ux#XXXX
+Minimal reproducer for a `symfony/ux-autocomplete` issue: symfony/ux#4084
+
 
 ## Versions
 
